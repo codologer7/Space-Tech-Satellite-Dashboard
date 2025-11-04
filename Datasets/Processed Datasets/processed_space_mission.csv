@@ -1,0 +1,114 @@
+﻿Company,CompanyType,Country,Year,Quarter,Month,Day,Sum of Day,LaunchSite,MissionName,MissionStatus,Sum of Month,Rocket,SiteID,SiteID(WithDuplicates),Time,Sum of Year
+Aeb,Private, Maranhão,1999,Qtr 4,December,11,11, Alcântara Launch Center,Saci-2,Failure,12,Vls-1,Vls Pad,Vls Pad,1899-12-30 19:40:00,1999
+Amba,Private, Florida,1958,Qtr 1,February,1,1, Cape Canaveral Afs,Explorer 1,Success,2,Juno I,Lc-26A,Lc-26A,1899-12-30 03:48:00,1958
+Amba,Private, Florida,1958,Qtr 1,March,26,26, Cape Canaveral Afs,Explorer 3,Success,3,Juno I,Lc-5,Lc-5,1899-12-30 17:38:00,1958
+Arianespace,Private, French Guiana,1986,Qtr 1,March,28,28, Guiana Space Centre,"Gstar-2, Brasilsat-A2",Success,3,Ariane 3,Ela-2,Ela-2,1899-12-30 23:30:00,1986
+Arianespace,Private, French Guiana,2018,Qtr 4,November,7,7, Guiana Space Centre,Metop C,Success,11,Soyuz St-B/Fregat-M,Els,Els,1899-12-30 00:47:00,2018
+Armée De L'Air,Private, Algeria,1965,Qtr 4,November,26,26, Hammaguir,Astérix,Success,11,Diamant A,Brigitte,Brigitte,1899-12-30 14:47:00,1965
+Asi,Private, Kenya,1967,Qtr 2,April,26,26, San Marco Launch Platform,San Marco 2,Success,4,Scout B,Sm Launch Tab,Sm Launch Tab,1899-12-30 10:06:00,1967
+Asi,Private, Kenya,1971,Qtr 2,April,24,24, San Marco Launch Platform,San Marco 3,Success,4,Scout B,Santa Rita 2,Santa Rita 2,1899-12-30 07:32:00,1971
+Blue Origin,Private, Texas,2016,Qtr 2,June,19,19, West Texas,Ns-5,Success,6,New Shepard,Blue Origin Launch Site,Blue Origin Launch Site,1899-12-30 14:36:00,2016
+Blue Origin,Private, Texas,2020,Qtr 4,October,13,13, West Texas,Ns-13,Success,10,New Shepard,Launch Site One,Launch Site One,1899-12-30 13:38:00,2020
+Casc,Government, China,1970,Qtr 2,April,24,24, Jiuquan Satellite Launch Center,Dong Fang Hong 1,Success,4,Long March 1,Site 5020 (La-2A),Site 5020 (La-2A),1899-12-30 13:35:00,1970
+Casc,Government, China,1972,Qtr 3,August,10,10, Jiuquan Satellite Launch Center,Shiyan Peizhong,Success,8,Feng Bao 1,Site 138 (La-2B),Site 138 (La-2B),1899-12-30 00:32:00,1972
+Casc,Government, China,1984,Qtr 1,January,29,29, Xichang Satellite Launch Center,Sttw 1 (Dong Fang Hong 2),Partial,1,Long March 3,Lc-3,Lc-3,1899-12-30 12:25:00,1984
+Casc,Government, China,1990,Qtr 3,July,16,16, Xichang Satellite Launch Center,"Optus-B, Badr-1, Mass Simulator",Success,7,Long March 2E,Lc-2,Lc-2,1899-12-30 00:40:00,1990
+Casc,Government, China,1999,Qtr 4,November,19,19, Jiuquan Satellite Launch Center,Shenzhou 1,Success,11,Long March 2F,Site 901 (Sls-1),Site 901 (Sls-1),1899-12-30 22:30:00,1999
+Casc,Government, China,2008,Qtr 3,September,6,6, Taiyuan Satellite Launch Center,Huanjing-1A & 1B,Success,9,Long March 2C/Sma,Lc-7,Lc-7,1899-12-30 03:25:00,2008
+Casc,Government, China,2016,Qtr 4,November,3,3, Wenchang Satellite Launch Center,Shijian-17,Success,11,Long March 5/Yz-2,Lc-101,Lc-101,1899-12-30 12:42:00,2016
+Casc,Government, China,2017,Qtr 2,April,20,20, Wenchang Satellite Launch Center,Tianzhou 1,Success,4,Long March 7/Yz-1A,Lc-201,Lc-201,1899-12-30 11:41:00,2017
+Casc,Government, China,2018,Qtr 4,December,29,29, Jiuquan Satellite Launch Center,Hongyan-1,Success,12,Long March 2D/Yz-3,Site 9401 (Sls-2),Site 9401 (Sls-2),1899-12-30 08:02:00,2018
+Casc,Government, China,2022,Qtr 1,March,29,29, Taiyuan Satellite Launch Center,Pujiang-2 & Tiankun-2,Success,3,Long March 6A,Lc-9A,Lc-9A,1899-12-30 09:50:00,2022
+Casc,Government,Usa,1988,Qtr 3,September,6,6, China,Fengyun 1A,Success,9,Long March 4A,Taiyuan Satellite Launch Center,Taiyuan Satellite Launch Center,1899-12-30 20:30:00,1988
+Casic,Private, China,2014,Qtr 4,November,21,21, Jiuquan Satellite Launch Center,Kuaizhou 2,Success,11,Kuaizhou 1,Site 95,Site 95,1899-12-30 06:37:00,2014
+Casic,Private,Usa,2013,Qtr 3,September,25,25, China,Kuaizhou 1,Success,9,Kuaizhou 1,Jiuquan Satellite Launch Center,Jiuquan Satellite Launch Center,1899-12-30 04:37:00,2013
+Cecles,Private, Australia,1968,Qtr 4,November,29,29, Raaf Woomera Range Complex,Stv-1,Success,11,Europa 1,La-5B,La-5B,1899-12-30 09:47:00,1968
+Cecles,Private, French Guiana,1971,Qtr 4,November,4,4, Guiana Space Centre,Test Flight,Failure,11,Europa 2,Ela-1,Ela-1,1899-12-30 21:10:00,1971
+Cnes,Government, French Guiana,1970,Qtr 1,March,10,10, Guiana Space Centre,Wika & Mika,Success,3,Diamant B,Eld,Eld,1899-12-30 15:20:00,1970
+Esa,Private, French Guiana,1979,Qtr 4,December,24,24, Guiana Space Centre,Cat-1,Success,12,Ariane 1,Elv-1 (Slv),Elv-1 (Slv),1899-12-30 17:14:00,1979
+Esa,Private, French Guiana,1996,Qtr 2,June,4,4, Guiana Space Centre,Cluster,Failure,6,Ariane 5 G,Ela-3,Ela-3,1899-12-30 12:34:00,1996
+Esa,Private, French Guiana,2022,Qtr 3,July,13,13, Guiana Space Centre,Lares 2 & Cubesats,Success,7,Vega C,Elv-1,Elv-1,1899-12-30 13:13:00,2022
+Exos,Private, New Mexico,2018,Qtr 3,August,25,25, Spaceport America,Launch 1,Partial,8,Sarge,Vertical Launch Area,Vertical Launch Area,1899-12-30 18:15:00,2018
+General Dynamics,Private, California,1960,Qtr 4,October,11,11, Vandenberg Afb,Samos 1,Failure,10,Atlas-Lv3 Agena-A,Slc-3W,Slc-3W,1899-12-30 20:33:00,1960
+General Dynamics,Private, California,1961,Qtr 3,July,12,12, Vandenberg Afb,Midas 3,Success,7,Atlas-Lv3 Agena-B,Slc-3E,Slc-3E,1899-12-30 15:11:00,1961
+General Dynamics,Private, California,1963,Qtr 3,July,12,12, Vandenberg Afb,Kh-7 Gambit 4001,Success,7,Atlas-Lv3 Agena-D,Slc-4W,Slc-4W,1899-12-30 20:46:00,1963
+General Dynamics,Private, California,1964,Qtr 3,August,14,14, Vandenberg Afb,Kh-7 Gambit 4010,Success,8,Atlas-Slv3 Agena-D,Slc-4E,Slc-4E,1899-12-30 22:00:00,1964
+General Dynamics,Private, California,1965,Qtr 1,January,21,21, Vandenberg Afb,Ov1-1,Failure,1,Atlas-D Ov1,Lc-576B3,Lc-576B3,1899-12-30 20:09:00,1965
+General Dynamics,Private, California,1968,Qtr 2,April,6,6, Vandenberg Afb,Ov1-13/Ov1-14,Success,4,Atlas-E/F Ov1,Lc-576A2,Lc-576A2,1899-12-30 09:59:00,1968
+General Dynamics,Private, California,1972,Qtr 4,October,2,2, Vandenberg Afb,P72-1,Success,10,Atlas-E/F Burner,Lc-576A1,Lc-576A1,1899-12-30 20:10:00,1972
+General Dynamics,Private, Florida,1960,Qtr 3,September,25,25, Cape Canaveral Afs,Pioneer P-30,Failure,9,Atlas-D Able,Lc-12,Lc-12,1899-12-30 15:13:00,1960
+General Dynamics,Private, Florida,1962,Qtr 2,May,8,8, Cape Canaveral Afs,Ac-1 (Test Vehicle),Failure,5,Atlas-Lv3C Centaur-A,Slc-36A,Slc-36A,1899-12-30 19:49:00,1962
+General Dynamics,Private, Florida,1963,Qtr 4,October,17,17, Cape Canaveral Afs,Vela 1A/1B,Success,10,Atlas-Lv3 Agena-D,Lc-13,Lc-13,1899-12-30 02:37:00,1963
+General Dynamics,Private, Florida,1965,Qtr 3,August,11,11, Cape Canaveral Afs,Surveyor Sd-2,Success,8,Atlas-Lv3C Centaur-D,Slc-36B,Slc-36B,1899-12-30 14:31:00,1965
+Irgc,Private, Iran,2022,Qtr 1,March,8,8, Shahrud Missile Test Site,Nour 2,Success,3,Qased,Launch Platform,Launch Platform,1899-12-30 05:06:00,2022
+Irgc,Private,Usa,2020,Qtr 2,April,22,22, Shahrud Missile Test Site,Noor 1,Success,4,Qased,Launch Plateform,Launch Plateform,1899-12-30 03:59:00,2020
+Isa,Private, Iran,2019,Qtr 1,January,15,15, Semnan Space Center,Payam-E Amirkabir,Failure,1,Simorgh,Imam Khomeini Spaceport,Imam Khomeini Spaceport,1899-12-30 00:30:00,2019
+Isas,Private, Japan,1970,Qtr 3,September,22,22, Uchinoura Space Center,Shinsei,Failure,9,Mu-Iv S,Mu Pad,Mu Pad,1899-12-30 05:00:00,1970
+Isro,Private, India,1979,Qtr 3,August,10,10, Satish Dhawan Space Centre,Rohini Technology Payload,Failure,8,Slv-3,Slv Lp,Slv Lp,1899-12-30 02:28:00,1979
+Isro,Private, India,2019,Qtr 1,January,24,24, Satish Dhawan Space Centre,Microsat-R,Success,1,Pslv-Dl,First Launch Pad,First Launch Pad,1899-12-30 18:07:00,2019
+Kari,Private, South Korea,2009,Qtr 3,August,25,25, Naro Space Center,Stsat-2A,Failure,8,Naro-1,Lc-1,Lc-1,1899-12-30 08:00:00,2009
+Kcst,Private, North Korea,1998,Qtr 3,August,31,31, Tonghae Satellite Launching Ground,KwangmyâÂNgsâÂNg 1,Failure,8,Taepodong-1,Pad 1,Pad 1,1899-12-30 03:07:00,1998
+Lockheed,Private, Alaska,2001,Qtr 3,September,30,30, Pacific Spaceport Complex,Starshine 3 & Others,Success,9,Athena I,Lp-1,Lp-1,1899-12-30 02:40:00,2001
+Lockheed,Private, California,1995,Qtr 3,August,15,15, Vandenberg Afb,Gemstar 1,Failure,8,Athena I,Slc-6,Slc-6,1899-12-30 22:30:00,1995
+Lockheed,Private, Florida,1998,Qtr 1,January,7,7, Cape Canaveral Afs,Lunar Prospector,Success,1,Athena Ii,Slc-46,Slc-46,1899-12-30 02:28:00,1998
+Martin Marietta,Private, Florida,1965,Qtr 2,June,18,18, Cape Canaveral Afs,Transtage 5,Success,6,Titan Iiic,Slc-40,Slc-40,1899-12-30 14:00:00,1965
+Martin Marietta,Private, Florida,1965,Qtr 4,December,21,21, Cape Canaveral Afs,"Les 3 & 4, Ov2-3, Oscar-4",Partial,12,Titan Iiic,Slc-41,Slc-41,1899-12-30 14:00:00,1965
+Mhi,Private, Japan,1975,Qtr 3,September,9,9, Tanegashima Space Center,Kiku 1,Success,9,N-I,La-Y1,La-Y1,1899-12-30 05:30:00,1975
+Mhi,Private, Japan,1990,Qtr 1,February,7,7, Tanegashima Space Center,Mos-1B / Oscar 20 / Debut,Success,2,H-I (9 So),Slc-N,Slc-N,1899-12-30 01:33:00,1990
+Mitt,Private, Russia,1993,Qtr 1,March,25,25, Plesetsk Cosmodrome,Eka-1,Success,3,Start-1,Site 158,Site 158,1899-12-30 13:15:00,1993
+Mitt,Private,Usa,1997,Qtr 1,March,4,4, Russia,Zeya,Success,3,Start-1,Svobodny Cosmodrome,Svobodny Cosmodrome,1899-12-30 02:00:00,1997
+Nasa,Government, Florida,1959,Qtr 3,September,9,9, Cape Canaveral Afs,Big Joe 1,Partial,9,Atlas-D Mercury,Lc-14,Lc-14,1899-12-30 08:19:00,1959
+Nasa,Government, Florida,1961,Qtr 4,November,1,1, Cape Canaveral Afs,Mercury-Scout 1 (Ms-1),Failure,11,Blue Scout Ii,Lc-18B,Lc-18B,1899-12-30 15:32:00,1961
+Nasa,Government, Florida,1964,Qtr 1,January,29,29, Cape Canaveral Afs,Sa-5,Success,1,Saturn I,Lc-34,Lc-34,1899-12-30 16:25:00,1964
+Nasa,Government, Florida,1964,Qtr 2,April,8,8, Cape Canaveral Afs,Gemini 1,Success,4,Titan Ii Glv,Lc-19,Lc-19,1899-12-30 16:01:00,1964
+Nasa,Government, Florida,1964,Qtr 2,May,28,28, Cape Canaveral Afs,A-101,Success,5,Saturn I,Slc-37B,Slc-37B,1899-12-30 17:07:00,1964
+Nasa,Government, Florida,1973,Qtr 2,May,25,25, Kennedy Space Center,Skylab 2,Success,5,Saturn Ib,Lc-39B,Lc-39B,1899-12-30 13:00:00,1973
+Nasa,Government, Virginia,1960,Qtr 4,December,4,4, Wallops Flight Facility,Explorer (S-56),Failure,12,Scout X-1,La-3,La-3,1899-12-30 21:14:00,1960
+Rocket Lab,Private, New Zealand,2020,Qtr 3,August,31,31, MäHia Peninsula,I Canâ€™T Believe Itâ€™S Not Optical,Success,8,Electron/Photon,Rocket Lab Lc-1A,Rocket Lab Lc-1A,1899-12-30 03:05:00,2020
+Rocket Lab,Private, New Zealand,2022,Qtr 2,June,28,28, MäHia Peninsula,Capstone,Success,6,Electron/Photon,Rocket Lab Lc-1B,Rocket Lab Lc-1B,1899-12-30 09:55:00,2022
+Roscosmos,Government, Russia,2016,Qtr 2,April,28,28, Vostochny Cosmodrome,"Mikhailo Lomonosov, Aist-2D, & Samsat 218",Success,4,Soyuz 2.1A/Volga,Site 1S,Site 1S,1899-12-30 02:01:00,2016
+Rvsn Ussr,Military, Kazakhstan,1957,Qtr 4,October,4,4, Baikonur Cosmodrome,Sputnik-1,Success,10,Sputnik 8K71Ps,Site 1/5,Site 1/5,1899-12-30 19:28:00,1957
+Rvsn Ussr,Military, Kazakhstan,1964,Qtr 2,April,4,4, Baikonur Cosmodrome,Cosmos 28,Success,4,Vostok-2,Site 31/6,Site 31/6,1899-12-30 09:45:00,1964
+Rvsn Ussr,Military, Kazakhstan,1964,Qtr 3,August,18,18, Baikonur Cosmodrome,"Cosmos 38, 39 & 40",Success,8,Cosmos-1 (65S3),Site 41/15,Site 41/15,1899-12-30 09:15:00,1964
+Rvsn Ussr,Military, Kazakhstan,1965,Qtr 3,July,16,16, Baikonur Cosmodrome,Proton-1,Success,7,Proton,Site 81/24,Site 81/24,1899-12-30 11:16:00,1965
+Rvsn Ussr,Military, Kazakhstan,1966,Qtr 3,September,17,17, Baikonur Cosmodrome,Ogtch 1,Partial,9,Tsyklon,Site 162,Site 162,1899-12-30 22:35:00,1966
+Rvsn Ussr,Military, Kazakhstan,1967,Qtr 1,March,10,10, Baikonur Cosmodrome,Cosmos 146,Success,3,Proton K/Block D,Site 81/23,Site 81/23,1899-12-30 11:30:00,1967
+Rvsn Ussr,Military, Kazakhstan,1967,Qtr 1,March,22,22, Baikonur Cosmodrome,Ogtch 3,Failure,3,Tsyklon,Site 161/35,Site 161/35,1899-12-30 14:05:00,1967
+Rvsn Ussr,Military, Kazakhstan,1967,Qtr 4,October,27,27, Baikonur Cosmodrome,Cosmos 185,Success,10,Tsyklon-2A,Site 90/19,Site 90/19,1899-12-30 02:21:00,1967
+Rvsn Ussr,Military, Kazakhstan,1968,Qtr 4,October,20,20, Baikonur Cosmodrome,Cosmos 249,Success,10,Tsyklon-2A,Site 90/20,Site 90/20,1899-12-30 04:02:00,1968
+Rvsn Ussr,Military, Kazakhstan,1969,Qtr 1,February,21,21, Baikonur Cosmodrome,3L (Zond L1S-1),Failure,2,N1-L3,Site 110/38,Site 110/38,1899-12-30 09:18:00,1969
+Rvsn Ussr,Military, Kazakhstan,1969,Qtr 3,September,15,15, Baikonur Cosmodrome,Cosmos 298,Success,9,Tsyklon,Site 191/66,Site 191/66,1899-12-30 16:00:00,1969
+Rvsn Ussr,Military, Kazakhstan,1971,Qtr 2,June,26,26, Baikonur Cosmodrome,6L (Test Flight),Failure,6,N1-L3,Site 110/37,Site 110/37,1899-12-30 23:15:00,1971
+Rvsn Ussr,Military, Kazakhstan,1985,Qtr 2,April,13,13, Baikonur Cosmodrome,Epn 03.0694 Nâ€ Â­1,Failure,4,Zenit-2,Site 45/1,Site 45/1,1899-12-30 08:00:00,1985
+Rvsn Ussr,Military, Kazakhstan,1990,Qtr 2,May,22,22, Baikonur Cosmodrome,Cosmos 2082,Success,5,Zenit-2,Site 45/2,Site 45/2,1899-12-30 05:14:00,1990
+Rvsn Ussr,Military, Russia,1961,Qtr 4,October,27,27, Kapustin Yar,Ds-1 1,Failure,10,Cosmos-2I (63S1),Mayak-2,Mayak-2,1899-12-30 16:30:00,1961
+Rvsn Ussr,Military, Russia,1964,Qtr 4,December,9,9, Kapustin Yar,Cosmos 51,Success,12,Cosmos-2I (63S1),Site 86/1,Site 86/1,1899-12-30 23:02:00,1964
+Rvsn Ussr,Military, Russia,1966,Qtr 1,March,17,17, Plesetsk Cosmodrome,Cosmos 112,Success,3,Vostok-2,Site 41/1,Site 41/1,1899-12-30 10:28:00,1966
+Rvsn Ussr,Military, Russia,1967,Qtr 1,March,16,16, Plesetsk Cosmodrome,Cosmos 148,Success,3,Cosmos-2I (63Sm),Site 133/3,Site 133/3,1899-12-30 17:30:00,1967
+Rvsn Ussr,Military, Russia,1967,Qtr 2,May,15,15, Plesetsk Cosmodrome,Cosmos 158,Success,5,Cosmos-3M (11K65M),Site 132/2,Site 132/2,1899-12-30 11:00:00,1967
+Rvsn Ussr,Military, Russia,1969,Qtr 4,October,21,21, Plesetsk Cosmodrome,Cosmos 304,Success,10,Cosmos-3M (11K65M),Site 132/1,Site 132/1,1899-12-30 12:49:00,1969
+Rvsn Ussr,Military, Russia,1969,Qtr 4,December,3,3, Plesetsk Cosmodrome,Cosmos 313,Success,12,Voskhod,Site 43/4,Site 43/4,1899-12-30 13:20:00,1969
+Rvsn Ussr,Military, Russia,1971,Qtr 1,February,18,18, Plesetsk Cosmodrome,Cosmos 396,Success,2,Voskhod,Site 43/3,Site 43/3,1899-12-30 13:59:00,1971
+Rvsn Ussr,Military, Russia,1973,Qtr 1,January,26,26, Kapustin Yar,Cosmos 546,Success,1,Cosmos-3M (11K65M),Site 107/1,Site 107/1,1899-12-30 11:44:00,1973
+Rvsn Ussr,Military, Russia,1977,Qtr 2,June,24,24, Plesetsk Cosmodrome,Cosmos 921,Success,6,Tsyklon-3,Site 32/2,Site 32/2,1899-12-30 10:30:00,1977
+Rvsn Ussr,Military, Russia,1980,Qtr 1,January,23,23, Plesetsk Cosmodrome,Cosmos 1151,Success,1,Tsyklon-3,Site 32/1,Site 32/1,1899-12-30 07:00:00,1980
+Rvsn Ussr,Military, Russia,1981,Qtr 1,February,19,19, Plesetsk Cosmodrome,Cosmos 1247,Success,2,Molniya-M /Block 2Bl,Site 16/2,Site 16/2,1899-12-30 10:00:00,1981
+Sea Launch,Private, Pacific Ocean,2000,Qtr 1,March,12,12, Kiritimati Launch Area,Ico F-1,Failure,3,Zenit-3 Sl,Lp Odyssey,Lp Odyssey,1899-12-30 14:49:00,2000
+Spacex,Private, Texas,2020,Qtr 3,August,4,4, Boca Chica,150 Meter Hop,Success,8,Starship Prototype,Pad A,Pad A,1899-12-30 23:57:00,2020
+Spacex,Private, Texas,2020,Qtr 4,December,9,9, Starbase,12.5-Kilometer Test Flight,Partial,12,Starship Prototype,Suborbital Pad A,Suborbital Pad A,1899-12-30 22:45:00,2020
+Spacex,Private, Texas,2021,Qtr 1,February,2,2, Starbase,10-Kilometer Test Flight,Partial,2,Starship Prototype,Suborbital Pad B,Suborbital Pad B,1899-12-30 20:25:00,2021
+Src,Private, Barents Sea,1998,Qtr 3,July,7,7, Barents Sea Launch Area,Tubsat,Success,7,Shtil',K-407 Submarine,K-407 Submarine,1899-12-30 03:15:00,1998
+Src,Private, Barents Sea,2006,Qtr 2,May,26,26, Barents Sea Launch Area,Kompass-2,Success,5,Shtil',K-84 Submarine,K-84 Submarine,1899-12-30 18:50:00,2006
+Us Air Force,Government, California,1959,Qtr 1,February,28,28, Vandenberg Afb,Discoverer 1,Failure,2,Thor-Dm18 Agena-A,Slc-1W (75-3-4),Slc-1W (75-3-4),1899-12-30 21:49:00,1959
+Us Air Force,Government, California,1959,Qtr 2,June,25,25, Vandenberg Afb,Discoverer 4,Failure,6,Thor-Dm18 Agena-A,Slc-1E (75-3-5),Slc-1E (75-3-5),1899-12-30 22:47:00,1959
+Us Air Force,Government, California,1961,Qtr 2,June,16,16, Vandenberg Afb,Discoverer 25,Success,6,Thor Dm-21 Agena-B,Slc-2E (75-1-1),Slc-2E (75-1-1),1899-12-30 23:02:00,1961
+Us Air Force,Government, California,1962,Qtr 3,August,23,23, Vandenberg Afb,Dsap-1 F2 (Program 35),Success,8,Scout X-2M,Slc-5,Slc-5,1899-12-30 11:44:00,1962
+Us Air Force,Government, California,1962,Qtr 3,August,29,29, Vandenberg Afb,Ftv 1153,Success,8,Thor Dm-21 Agena-D,Slc-2W,Slc-2W,1899-12-30 01:00:00,1962
+Us Air Force,Government, Florida,1958,Qtr 3,August,17,17, Cape Canaveral Afs,Pioneer 0,Failure,8,Thor-Dm 18 Able I,Slc-17A,Slc-17A,1899-12-30 12:18:00,1958
+Us Air Force,Government, Florida,1958,Qtr 4,December,18,18, Cape Canaveral Afs,Score,Success,12,Sm-65B Atlas,Lc-11,Lc-11,1899-12-30 23:02:00,1958
+Us Air Force,Government, Florida,1960,Qtr 2,April,13,13, Cape Canaveral Afs,Transit 1B,Success,4,Thor-Dm21 Ablestar,Slc-17B,Slc-17B,1899-12-30 12:02:00,1960
+Us Navy,Government, Florida,1957,Qtr 4,December,6,6, Cape Canaveral Afs,Vanguard Tv3,Failure,12,Vanguard,Lc-18A,Lc-18A,1899-12-30 16:44:00,1957
+Ut,Private,Usa,1970,Qtr 1,February,11,11, Japan,Osumi,Success,2,Lambda-Iv S,Uchinoura Space Center,Uchinoura Space Center,1899-12-30 04:25:00,1970
+Virgin Galactic,Private, New Mexico,2020,Qtr 4,December,12,12, Spaceport America,Vf-02,Partial,12,Spaceshiptwo,Vms Eve,Vms Eve,1899-12-30 16:19:00,2020
+Vks Rf,Private, Kazakhstan,2003,Qtr 4,December,5,5, Baikonur Cosmodrome,Gruzomaket,Success,12,Strela,Site 175/59,Site 175/59,1899-12-30 06:00:00,2003
+Vks Rf,Private, Russia,2014,Qtr 3,July,9,9, Plesetsk Cosmodrome,Demo Flight,Success,7,Angara 1.2,Site 35/1,Site 35/1,1899-12-30 12:00:00,2014
